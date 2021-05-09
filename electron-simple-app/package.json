@@ -1,0 +1,7 @@
+{
+  "name": "electron-simple-app",
+  "version": "0.1.0",
+  "author": "sang nguyen",
+  "description": "My Electron app",
+  "main": "main.js"
+}
