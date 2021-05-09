@@ -1,0 +1,37 @@
+{
+  "name": "spectron-template",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "npx electron electron-simple-app",
+    "test": "npx mocha -r ts-node/register test/*.spec.ts"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/sangcnguyen/spectron-demo.git"
+  },
+  "keywords": [
+    "spectron",
+    "electron",
+    "selenium"
+  ],
+  "author": "Sang Nguyen",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/sangcnguyen/spectron-demo/issues"
+  },
+  "homepage": "https://github.com/sangcnguyen/spectron-demo#readme",
+  "dependencies": {
+    "chai": "^4.3.4",
+    "electron": "^12.0.7",
+    "mocha": "^8.4.0",
+    "spectron": "^14.0.0",
+    "ts-node": "^9.1.1",
+    "typescript": "^4.2.4"
+  },
+  "devDependencies": {
+    "@types/chai": "^4.2.18",
+    "@types/mocha": "^8.2.2"
+  }
+}
