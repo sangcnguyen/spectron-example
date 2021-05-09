@@ -1,6 +1,6 @@
 ## Overview
 
-A simple example to evaluate how leveraging Electron and WebdriverIO together.
+A simple example to evaluate how leveraging [Spectron](https://www.electronjs.org/spectron) and [WebdriverIO](https://webdriver.io/) together.
 
 ### Steps to replicate this project
 
